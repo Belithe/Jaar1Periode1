@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<link rel="stylesheet" 
+	style="text/css"
+	href="css/cool.css"
+	>
+</head>
+
+
+
+<body>
+	<header>
+		<p>Sick robot noises for u</p>
+	</header>
+	<article>
+		<h1>beep</h1>
+		<h2>boop</h2>
+		<p>LoremIpsum</p>
+	
+	</article>
+	<footer>
+		weep for me
+	</footer>
+</body>
+
+
+
+
+
+</html>
