@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Cedarville+Cursive&display=swap');
+@font-face {
+	font-family: "BEEEP";
+	src:url("ostrich-regular.ttf");
+}
+
+body
+{
+	background-color: salmon;
+}
+
+h1
+{
+	font-family: 'Courier New', 'Lucida Console', 'Comic Sans';
+	font-size: 32px;
+	color: #FF0000;
+	font-style: oblique;
+}
+
+p 
+{
+	font-family:"Cedarville Cursive";
+	font-size:10vw;
+	color: rgb(0,0,255);
+	font-variant: small-caps;
+}
+
+footer {
+	font-family:"BEEEP";
+	font-size:1.6vw;
+	color: hsla(300,100,85,1);
+	font-stretch: expanded;
+}
+
+h1
+{
+	color: red;
+}
+h2
+{
+	color: red;
+}
